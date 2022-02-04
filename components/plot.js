@@ -1,4 +1,4 @@
-import plotly from 'plotly.js/dist/plotly';
+import plotly from 'plotly.js/dist/plotly-myScatters.min';
 import createPlotComponent from 'react-plotly.js/factory';
 import intensity from '../data/ftirIntensity';
 import wavenumber from '../data/ftirWavenum';
